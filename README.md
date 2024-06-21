@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/eno-gerguri-89a48925b/]
+<a href="https://www.linkedin.com/in/eno-gerguri-89a48925b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ![Tech Banner](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
@@ -18,7 +20,9 @@ I am an aspiring Software Engineer :wave: from London, UK.
 
 :zap: In my free time, I solve algorithms and data structures questions and  work on my software engineering projects.
 
-:mailbox: How to reach me: [![LinkedIn Button](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/eno-gerguri-89a48925b/]
+:mailbox: How to reach me: <a href="https://www.linkedin.com/in/eno-gerguri-89a48925b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ---
 
@@ -31,5 +35,4 @@ I am an aspiring Software Engineer :wave: from London, UK.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Eno-Gerguri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eno-Gerguri)](https://github.com/anuraghazra/github-readme-stats)
